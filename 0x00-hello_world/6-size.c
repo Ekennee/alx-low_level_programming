@@ -4,7 +4,7 @@
   *
   *Return - always 0 (success)
   */
-int (void)
+int main(void)
 {
 	char a;
 	int b;
