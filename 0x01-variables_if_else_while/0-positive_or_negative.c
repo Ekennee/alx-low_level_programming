@@ -1,10 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
-/*
+#include <stdio.h>
+
+/**
 *main - function begins
 *
 *Return: function ends
 */
+
 int main(void)
 {
 	int n;
