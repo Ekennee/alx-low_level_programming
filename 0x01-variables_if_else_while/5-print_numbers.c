@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
 *main - function begins
 *
 *Return: funcion ends
