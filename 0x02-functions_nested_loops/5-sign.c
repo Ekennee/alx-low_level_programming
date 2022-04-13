@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *print_sign - print sign of a number
  *@n: number to chec
  *Return: always 0
