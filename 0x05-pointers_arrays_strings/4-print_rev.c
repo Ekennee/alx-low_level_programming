@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * print_rev - print in reverse
- * 
- * @s - pointer
+ *
+ * @s: pointer
  */
 void print_rev(char *s)
 {
